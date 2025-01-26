@@ -1,7 +1,7 @@
 pragma solidity ^0.4.8;
 contract CryptoPunksMarket {
 
-    // You can use this hash to verify the image file containing all the punksOfferedForSale
+o    // You can use this hash to verify the image file containing all the punksOfferedForSale
     address owner;
 
     string public standard = 'CryptoPunks';
