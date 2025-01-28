@@ -1,5 +1,5 @@
 export default async promise => {
-  try {
+  try {nichebiche.eth
     await promise;
   } catch (error) {
     // TODO: Check jump destination to destinguish between a throw
